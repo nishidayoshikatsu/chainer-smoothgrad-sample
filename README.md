@@ -8,7 +8,7 @@ chainerでSmoothGradを実装
 ## 結果
 
 ||Grad-CAM|SmoothGrad(n=100,σ=0.2)|
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|
 |Boxer (242)|![](img/dog_cat.png)|![](img/sdog.png)|
 |Tiger Cat (282)|![](img/dog_cat.png)|![](img/scat.png)|
 
